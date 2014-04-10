@@ -1,0 +1,23 @@
+﻿<Window xmlns:my="clr-namespace:Microsoft.Samples.Kinect.WpfViewers;assembly=Microsoft.Samples.Kinect.WpfViewers"  x:Class="WpfKinectSkeleton.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Kinect Tracking" Height="640" Width="640" Closing="Window_Closing">
+    <Grid>
+        <my:KinectColorViewer Kinect="{Binding ElementName=KinectSensorChooser, Path=Kinect}" />
+
+        <Canvas x:Name="SkeletonCanvas" />
+        <my:KinectSensorChooser Background="AliceBlue" x:Name="KinectSensorChooser" />
+        <TextBlock 
+            Name="tbTime"
+              FontFamily="Century Gothic"
+              FontSize="32"
+              FontStretch="UltraExpanded"
+              FontWeight="UltraBold"
+
+              LineHeight="Auto"
+              Padding="5,10,5,10"
+              TextAlignment="Center"
+              TextWrapping="Wrap"
+         />       
+    </Grid>
+</Window>

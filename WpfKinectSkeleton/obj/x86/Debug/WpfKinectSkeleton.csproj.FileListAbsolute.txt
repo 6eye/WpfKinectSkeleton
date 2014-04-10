@@ -1,0 +1,69 @@
+c:\users\renaud\documents\visual studio 2010\Projects\WpfKinectSkeleton\WpfKinectSkeleton\bin\Debug\WpfKinectSkeleton.exe
+c:\users\renaud\documents\visual studio 2010\Projects\WpfKinectSkeleton\WpfKinectSkeleton\bin\Debug\WpfKinectSkeleton.pdb
+c:\users\renaud\documents\visual studio 2010\Projects\WpfKinectSkeleton\WpfKinectSkeleton\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+c:\users\renaud\documents\visual studio 2010\Projects\WpfKinectSkeleton\WpfKinectSkeleton\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+c:\users\renaud\documents\visual studio 2010\Projects\WpfKinectSkeleton\WpfKinectSkeleton\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\renaud\documents\visual studio 2010\Projects\WpfKinectSkeleton\WpfKinectSkeleton\obj\x86\Debug\MainWindow.baml
+c:\users\renaud\documents\visual studio 2010\Projects\WpfKinectSkeleton\WpfKinectSkeleton\obj\x86\Debug\MainWindow.g.cs
+c:\users\renaud\documents\visual studio 2010\Projects\WpfKinectSkeleton\WpfKinectSkeleton\obj\x86\Debug\App.g.cs
+c:\users\renaud\documents\visual studio 2010\Projects\WpfKinectSkeleton\WpfKinectSkeleton\obj\x86\Debug\WpfKinectSkeleton_MarkupCompile.cache
+c:\users\renaud\documents\visual studio 2010\Projects\WpfKinectSkeleton\WpfKinectSkeleton\obj\x86\Debug\WpfKinectSkeleton.g.resources
+c:\users\renaud\documents\visual studio 2010\Projects\WpfKinectSkeleton\WpfKinectSkeleton\obj\x86\Debug\WpfKinectSkeleton.Properties.Resources.resources
+c:\users\renaud\documents\visual studio 2010\Projects\WpfKinectSkeleton\WpfKinectSkeleton\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\renaud\documents\visual studio 2010\Projects\WpfKinectSkeleton\WpfKinectSkeleton\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\renaud\documents\visual studio 2010\Projects\WpfKinectSkeleton\WpfKinectSkeleton\obj\x86\Debug\WpfKinectSkeleton.exe
+c:\users\renaud\documents\visual studio 2010\Projects\WpfKinectSkeleton\WpfKinectSkeleton\obj\x86\Debug\WpfKinectSkeleton.pdb
+C:\Users\Renaud\Documents\Blog\Articles - 3 - SkeletonStream\WpfKinectSkeleton\WpfKinectSkeleton\obj\x86\Debug\WpfKinectSkeleton.exe
+C:\Users\Renaud\Documents\Blog\Articles - 3 - SkeletonStream\WpfKinectSkeleton\WpfKinectSkeleton\bin\Debug\WpfKinectSkeleton.exe
+C:\Users\Renaud\Documents\Blog\Articles - 3 - SkeletonStream\WpfKinectSkeleton\WpfKinectSkeleton\bin\Debug\WpfKinectSkeleton.pdb
+C:\Users\Renaud\Documents\Blog\Articles - 3 - SkeletonStream\WpfKinectSkeleton\WpfKinectSkeleton\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Renaud\Documents\Blog\Articles - 3 - SkeletonStream\WpfKinectSkeleton\WpfKinectSkeleton\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Renaud\Documents\Blog\Articles - 3 - SkeletonStream\WpfKinectSkeleton\WpfKinectSkeleton\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\Renaud\Documents\Blog\Articles - 3 - SkeletonStream\WpfKinectSkeleton\WpfKinectSkeleton\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\Renaud\Documents\Blog\Articles - 3 - SkeletonStream\WpfKinectSkeleton\WpfKinectSkeleton\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Renaud\Documents\Blog\Articles - 3 - SkeletonStream\WpfKinectSkeleton\WpfKinectSkeleton\obj\x86\Debug\MainWindow.baml
+C:\Users\Renaud\Documents\Blog\Articles - 3 - SkeletonStream\WpfKinectSkeleton\WpfKinectSkeleton\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Renaud\Documents\Blog\Articles - 3 - SkeletonStream\WpfKinectSkeleton\WpfKinectSkeleton\obj\x86\Debug\App.g.cs
+C:\Users\Renaud\Documents\Blog\Articles - 3 - SkeletonStream\WpfKinectSkeleton\WpfKinectSkeleton\obj\x86\Debug\WpfKinectSkeleton_MarkupCompile.cache
+C:\Users\Renaud\Documents\Blog\Articles - 3 - SkeletonStream\WpfKinectSkeleton\WpfKinectSkeleton\obj\x86\Debug\WpfKinectSkeleton.g.resources
+C:\Users\Renaud\Documents\Blog\Articles - 3 - SkeletonStream\WpfKinectSkeleton\WpfKinectSkeleton\obj\x86\Debug\WpfKinectSkeleton.Properties.Resources.resources
+C:\Users\Renaud\Documents\Blog\Articles - 3 - SkeletonStream\WpfKinectSkeleton\WpfKinectSkeleton\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Renaud\Documents\Blog\Articles - 3 - SkeletonStream\WpfKinectSkeleton\WpfKinectSkeleton\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Renaud\Documents\Blog\Articles - 3 - SkeletonStream\WpfKinectSkeleton\WpfKinectSkeleton\obj\x86\Debug\WpfKinectSkeleton.pdb
+C:\Users\KARASIK\Desktop\WpfKinect - 3 - SkeletonStream\WpfKinectSkeleton\obj\x86\Debug\WpfKinectSkeleton.exe
+C:\Users\KARASIK\Desktop\WpfKinect - 3 - SkeletonStream\WpfKinectSkeleton\obj\x86\Debug\WpfKinectSkeleton.pdb
+C:\Users\KARASIK\Desktop\WpfKinect - 3 - SkeletonStream\WpfKinectSkeleton\obj\x86\Debug\WpfKinectSkeleton.csprojResolveAssemblyReference.cache
+C:\Users\KARASIK\Desktop\WpfKinect - 3 - SkeletonStream\WpfKinectSkeleton\obj\x86\Debug\MainWindow.baml
+C:\Users\KARASIK\Desktop\WpfKinect - 3 - SkeletonStream\WpfKinectSkeleton\obj\x86\Debug\MainWindow.g.cs
+C:\Users\KARASIK\Desktop\WpfKinect - 3 - SkeletonStream\WpfKinectSkeleton\obj\x86\Debug\App.g.cs
+C:\Users\KARASIK\Desktop\WpfKinect - 3 - SkeletonStream\WpfKinectSkeleton\obj\x86\Debug\WpfKinectSkeleton_MarkupCompile.cache
+C:\Users\KARASIK\Desktop\WpfKinect - 3 - SkeletonStream\WpfKinectSkeleton\obj\x86\Debug\WpfKinectSkeleton.g.resources
+C:\Users\KARASIK\Desktop\WpfKinect - 3 - SkeletonStream\WpfKinectSkeleton\obj\x86\Debug\WpfKinectSkeleton.Properties.Resources.resources
+C:\Users\KARASIK\Desktop\WpfKinect - 3 - SkeletonStream\WpfKinectSkeleton\obj\x86\Debug\WpfKinectSkeleton.csproj.GenerateResource.Cache
+C:\Users\KARASIK\Desktop\WpfKinect - 3 - SkeletonStream\WpfKinectSkeleton\bin\Debug\WpfKinectSkeleton.exe
+C:\Users\KARASIK\Desktop\WpfKinect - 3 - SkeletonStream\WpfKinectSkeleton\bin\Debug\WpfKinectSkeleton.pdb
+C:\Users\KARASIK\Desktop\WpfKinect - 3 - SkeletonStream\WpfKinectSkeleton\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\KARASIK\Desktop\WpfKinect - 3 - SkeletonStream\WpfKinectSkeleton\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\KARASIK\Desktop\WpfKinect - 3 - SkeletonStream\WpfKinectSkeleton\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\KARASIK\Desktop\WpfKinect - 3 - SkeletonStream\WpfKinectSkeleton\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\KARASIK\Desktop\WpfKinect - 3 - SkeletonStream\WpfKinectSkeleton\bin\Debug\Kinect.Toolbox.dll
+C:\Users\KARASIK\Desktop\WpfKinect - 3 - SkeletonStream\WpfKinectSkeleton\bin\Debug\Kinect.Toolbox.Voice.dll
+C:\Users\KARASIK\Desktop\WpfKinect - 3 - SkeletonStream\WpfKinectSkeleton\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\KARASIK\Desktop\WpfKinect - 3 - SkeletonStream\WpfKinectSkeleton\obj\x86\Debug\WpfKinectSkeleton_Content.g.cs
+C:\Users\KARASIK\Desktop\WpfKinect - 3 - SkeletonStream\WpfKinectSkeleton\bin\Debug\WpfKinectSkeleton.exe.config
+C:\Users\KARASIK\Desktop\WpfKinect - 3 - SkeletonStream\WpfKinectSkeleton\bin\Debug\EntityFramework.dll
+C:\Users\KARASIK\Desktop\WpfKinect - 3 - SkeletonStream\WpfKinectSkeleton\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KARASIK\Desktop\WpfKinect - 3 - SkeletonStream\WpfKinectSkeleton\bin\Debug\EntityFramework.xml
+C:\Users\KARASIK\Desktop\WpfKinect - 3 - SkeletonStream\WpfKinectSkeleton\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KARASIK\Desktop\WpfKinect - 3 - SkeletonStream\WpfKinectSkeleton\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\KARASIK\Desktop\WpfKinect - 3 - SkeletonStream\WpfKinectSkeleton\bin\Debug\WPFToolkit.dll
+C:\Users\KARASIK\Desktop\WpfKinect - 3 - SkeletonStream\WpfKinectSkeleton\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\KARASIK\Desktop\WpfKinect - 3 - SkeletonStream\WpfKinectSkeleton\bin\Debug\WPFToolkit.pdb
+C:\Users\KARASIK\Desktop\WpfKinect - 3 - SkeletonStream\WpfKinectSkeleton\obj\x86\Debug\WpfKinectSkeleton_MarkupCompile.lref
+C:\Users\KARASIK\Desktop\WpfKinect - 3 - SkeletonStream\WpfKinectSkeleton\obj\x86\Debug\Analytics\ResultWindow.g.cs
+C:\Users\KARASIK\Desktop\WpfKinect - 3 - SkeletonStream\WpfKinectSkeleton\obj\x86\Debug\Analytics\ResultWindow.baml
+C:\Users\KARASIK\Desktop\WpfKinect - 3 - SkeletonStream\WpfKinectSkeleton\bin\Debug\DynamicDataDisplay.dll
+C:\Users\KARASIK\Desktop\WpfKinect - 3 - SkeletonStream\WpfKinectSkeleton\bin\Debug\DynamicDataDisplay.xml
+C:\Users\KARASIK\Desktop\WpfKinect - 3 - SkeletonStream\WpfKinectSkeleton\bin\Debug\ru-ru\DynamicDataDisplay.resources.dll
+C:\Users\KARASIK\Desktop\WpfKinect - 3 - SkeletonStream\WpfKinectSkeleton\bin\Debug\DynamicDataDisplay.Controls.dll
+C:\Users\KARASIK\Desktop\WpfKinect - 3 - SkeletonStream\WpfKinectSkeleton\bin\Debug\DynamicDataDisplay.Controls.xml
